@@ -1,5 +1,5 @@
-# Source code for paper "Gender-unbiased BERT-based Pronoun Resolution" 
-(accepted at the 1st ACL Workshop on Gender Bias for Natural Language Processing at [ACL 2019](http://www.acl2019.org/EN/index.xhtml) in Florence on 2nd August 2019)
+# Source code for paper "Resolving Gendered Ambiguous Pronouns with BERT " 
+[ArXiv](https://arxiv.org/abs/1906.01161), accepted at the 1st ACL Workshop on Gender Bias for Natural Language Processing at [ACL 2019](http://www.acl2019.org/EN/index.xhtml) in Florence on 2nd August 2019.
 
 #### [Kaggle competition](https://www.kaggle.com/c/gendered-pronoun-resolution)
 #### Abstract 
