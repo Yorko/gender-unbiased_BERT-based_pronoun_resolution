@@ -1,0 +1,8 @@
+https://github.com/huggingface/neuralcoref-models/releases/download/en_coref_md-3.0.0/en_coref_md-3.0.0.tar.gz
+allennlp==0.8.3
+cymem==1.31.2
+spacy==2.0.12
+pandas==0.23.4
+numpy==1.16.2
+tqdm
+tensorflow==1.13.1
